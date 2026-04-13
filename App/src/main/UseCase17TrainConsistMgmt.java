@@ -1,17 +1,4 @@
 package main;
-/**
- * MAIN CLASS - UseCase16TrainConsistMgmt
- *
- * Use Case 16: Sort Passenger Bogies by Capacity
- *
- * Description:
- * Demonstrates manual sorting using Bubble Sort algorithm
- * instead of built-in Java sorting utilities.
- *
- * Author: Vineet Seth
- * Version: 16.0
- */
-
 import java.util.Arrays;
 
 /**
