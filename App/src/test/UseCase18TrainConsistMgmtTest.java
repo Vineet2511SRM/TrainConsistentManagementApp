@@ -19,7 +19,7 @@ public class UseCase18TrainConsistMgmtTest {
     }
 
     @Test
-    void testSearch_BogieFound() {
+    void testSearch_BogieFound() { // testing search
 
         String[] arr = {
                 "BG101",

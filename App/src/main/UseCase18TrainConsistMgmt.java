@@ -2,7 +2,7 @@ package main;
 /**
  * MAIN CLASS - UseCase18TrainConsistMgmt
  *
- * Use Case 18: Linear Search for Bogie ID
+ * Use Case 18: Linear Search for Bogie ID by creating array of bogie ids
  *
  * Description:
  * Demonstrates searching for a specific bogie ID
